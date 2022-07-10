@@ -1,4 +1,4 @@
-# Robox 2
+# Roblox 2
 
 As the challenge says.
 <img src="https://github.com/swarogisreal/CTF-Writeups/blob/main/2022-vsCTF/Images/Roblox-2-1.png"/>
